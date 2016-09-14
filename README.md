@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/aolko/rubito.png?label=ready&title=Ready)](https://waffle.io/aolko/rubito)
 ![rubito](http://i.imgur.com/nYEaCQ2.png)
 
 ![rubito-btn](http://i.imgur.com/datZpRJ.png) [![Code Triagers Badge](https://www.codetriage.com/aolko/rubito-public/badges/users.svg)](https://www.codetriage.com/aolko/rubito-public)
