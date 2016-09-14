@@ -1,6 +1,6 @@
 ![rubito](http://i.imgur.com/nYEaCQ2.png)
 
-![rubito-btn](http://i.imgur.com/datZpRJ.png)
+![rubito-btn](http://i.imgur.com/datZpRJ.png) [![Code Triagers Badge](https://www.codetriage.com/aolko/rubito-public/badges/users.svg)](https://www.codetriage.com/aolko/rubito-public)
 
 ( This is a public branch of the rubito repository )
 
