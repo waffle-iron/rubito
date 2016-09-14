@@ -1,6 +1,6 @@
 ![rubito](http://i.imgur.com/nYEaCQ2.png)
 
-( This is a public version of the rubito repository )
+( This is a public branch of the rubito repository )
 
 #Rubito
 
